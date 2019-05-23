@@ -1,8 +1,8 @@
 # EjemploSintactico
-Ejemplo de analizador sintactico usando Javacc y 
+Ejemplo de analizador sintactico usando Javacc y JJTREE
 
 <p> Instrucciones: </p>
-<p> jjtree ExprLang.jjt </>
-javacc ExprLang.jj
-javac *.java
-java ExprLang code.txt
+<p> jjtree ExprLang.jjt </p>
+<p> javacc ExprLang.jj </p>
+<p> javac *.java </p>
+<p> java ExprLang code.txt </p>
